@@ -23,15 +23,6 @@ If anyone reads this and is willing to spend a few minutes communicating with me
 Mahalo for reading this and Aloha,
 
 Jaci (Forrest)
--   
-- 
-- 
-- 
-- m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-fsalfen/fsalfen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me ...I believe there is a link to my email somewhere here. I'm not fully familiar with github yet so please excuse me.
+
